@@ -1,3 +1,3 @@
 # Northwind
 
-Demo Project for Showing off Mobile Center Build.
+Demo project for showing off Mobile Center Build service.
